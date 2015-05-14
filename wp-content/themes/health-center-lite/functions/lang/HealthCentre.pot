@@ -1,0 +1,1062 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: HealthCentre\n"
+"POT-Creation-Date: 2015-01-23 19:04+0530\n"
+"PO-Revision-Date: 2015-01-23 19:05+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.6\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wordpress_lite\\wp-content\\themes\\hc-"
+"lite\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress_lite\\wp-content\\themes"
+"\\hc-lite\n"
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/404.php:6
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/404.php:16
+msgid "Error 404"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/404.php:17
+msgid "Oops! Page not found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/404.php:18
+msgid "We`re sorry, but the page you are looking for doesn`t exist."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/404.php:19
+msgid "Go to Homepage"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/archive.php:7
+msgid "Daily Archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/archive.php:9
+msgid "Monthly Archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/archive.php:11
+msgid "Yearly Archives:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/archive.php:13
+msgid "Blog Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/author.php:45
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/blog.php:53
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/category.php:45
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/full-width.php:46
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/index.php:49
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/page.php:42
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/single.php:42
+msgid "Read More"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/author.php:52
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/blog.php:60
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/category.php:52
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/index.php:57
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/author.php:55
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/blog.php:63
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/category.php:55
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/index.php:60
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:16
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:17
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:18
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:22
+msgid "Comments Are Closed!!!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:26
+msgid "You must be"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:26
+msgid "logged in"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:26
+msgid "to post a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:31
+msgid "Name"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:32
+msgid "Email"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:33
+msgid "Website"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:43
+msgid "Logged in as "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:43
+msgid " Log out?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:45
+msgid "Post Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/comments.php:47
+msgid "Leave a Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/footer.php:27
+msgid "WordPress"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions.php:29
+msgid "Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions.php:41
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/header.php:29
+msgid "Health"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/header.php:29
+msgid "Center"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/page.php:17
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/single.php:16
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/page.php:17
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/single.php:16
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/page.php:17
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/single.php:16
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/search.php:8
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/search.php:47
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/search.php:49
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/tag.php:7
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/commentbox/comment-function.php:10
+msgid "Reply"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/commentbox/comment-function.php:17
+msgid "at"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/commentbox/comment-function.php:21
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/option_pannel.php:4
+msgid "theme"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/option_pannel.php:4
+msgid "Option Panel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/option_pannel.php:6
+msgid "webriti_themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/option_pannel.php:6
+msgid "Webriti Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:5
+msgid "Health-Center-Lite By"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:7
+msgid "Upgrade to Health Center Pro!"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:9
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:10
+msgid "Rate Health Center"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:19
+msgid "Health Center-Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:24
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:44
+msgid "Features"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:25
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:45
+msgid "Free"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:26
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:46
+msgid "Premium"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:31
+msgid "Intuitive Option Panel"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:31
+msgid "Customize theme with intutive option panel."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:36
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:105
+msgid "Translation Ready"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:36
+msgid "Translate the theme into your own language."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:42
+msgid "Customizable Home Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:43
+msgid "Customize the Home Page by adding you own Images and Text."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:49
+msgid "Front Page Layout Manager"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:50
+msgid "Drag and Drop option for front page layout manager."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:56
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:54
+msgid "Responsive Home Page Slider"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:57
+msgid "Showcase your most important services with the Home Page Slider."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:63
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:70
+msgid "Page Templates"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:64
+msgid "Number of Page Templates which come with the Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:70
+msgid "About Us Template"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:71
+msgid "Showcase the team behind your business with About Us Template."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:77
+msgid "Contact Form Template"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:78
+msgid "Premium version comes with a beautiful contact page template. "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:85
+msgid "Services Template"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:86
+msgid ""
+"Showcase different services which your business offers.It is available in "
+"single column and two column layout"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:92
+msgid "Portfolio Template"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:93
+msgid ""
+"Showcase your work with Postfolio Template. Available in 2, 3 & 4 Column "
+"Layout."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:99
+msgid "Custom Widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:100
+msgid "Customize the sidebar with the included widgets"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:106
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:117
+msgid "Theme Support "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:107
+msgid "Get our fast and friendly support."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:108
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:118
+msgid "Via Wordpress Forums"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:109
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:119
+msgid "Private Forums with Email Support"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:113
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:115
+msgid "Get the Premium Version"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:129
+msgid "Home Page"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:131
+msgid "Quick Start"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:132
+msgid "Service Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:133
+msgid "Projects Setting"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_option_pannel.php:138
+msgid "Footer Customization"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:25
+msgid "Quality Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:27
+msgid ""
+"Quality is a Responsive WordPress Theme. It is ideal for Corporate Sector , "
+"Business Website.Very Cleaned Design."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:28
+msgid ""
+"Quality is designed with Readability Flexibility in mind. It is suitable for "
+"Business website and other corporate website owner."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:29
+msgid "You can build an effective online presence for your business"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:31
+msgid "Buy Quality Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:32
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:50
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:68
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:87
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:106
+msgid "View Demo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:33
+msgid "New Theme"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:43
+msgid "Health Centre Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:45
+msgid ""
+"Health Centre is a Responsive WordPress Theme. It is ideal for Gym/Health "
+"Healing Centre Owner.Very Cleaned Design."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:46
+msgid ""
+"Health Centre is designed with Readability Flexibility in mind. It is "
+"suitable for Dentists, Doctors , Surgeons, hospitals and other type of "
+"Medical Websites."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:47
+msgid "Build an effective online presence with HealthCentre"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:49
+msgid "Buy Health Centre Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:61
+msgid "Rambo Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:63
+msgid ""
+"Rambo is a Responsive Multi-Purpose Wordpress Theme. It is ideal for "
+"creating a corporate website. It boasts of a highy functional Home Page ."
+"Very Cleaned Design."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:64
+msgid ""
+"Rambo is designed with Readability Flexibility in mind. Customize it to your "
+"hearts content with Sortable Project Areas, Services Areas and Call Out "
+"Section.Use these great features to build an effective online presence for "
+"your business."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:65
+msgid ""
+"All of our Theme contain Responsive frameworks that adapt to Mobile Devices."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:67
+msgid "Buy Rambo Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:79
+msgid "Busiprof Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:81
+msgid ""
+"A Beautiful and FLexible Responsive Businees Theme. It is ideal for creating "
+"a corporate website. It boasts of a highy functional Home Page and "
+"Widgetized Footer. Build an effective online presence with BusiProf."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:82
+msgid ""
+"Busiprof is designed with Flexibility in mind. Customize it to your hearts "
+"content with Sortable Project Areas, Services Areas and Testimonial "
+"Section. . Use these great features to build an effective online presence "
+"for your business"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:83
+msgid ""
+"The majority of our themes contain responsive frameworks that adapt to "
+"Mobile Devices."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:86
+msgid "Buy busiprof Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:98
+msgid "Spasalon Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:100
+msgid ""
+"A responsive theme for SPA SALON and BEAUTY SALON type of business that uses "
+"multiple nav menus, Right-sidebar, Featured Slider and Beautifully designed "
+"home page all manage via option panel."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:101
+msgid ""
+"Spasalon is designed with content flexibility and Intuitive features in "
+"mind. Use these great core features to grow your business."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:102
+msgid ""
+"The majority of our themes contain responsive frameworks that mold perfectly "
+"to fit all your mobile and Apple devices."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:103
+msgid ""
+"A responsive theme for SPA SALON and BEAUTY SALON type of business that uses "
+"multiple nav menus, Right-sidebar, Featured Slider."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/webriti_theme.php:105
+msgid "Buy Spasalon Pro"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/footer_customization_settings.php:31
+msgid "Footer Customizations settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/footer_customization_settings.php:33
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:48
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:77
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:78
+msgid "Options data successfully Saved"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/footer_customization_settings.php:34
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:49
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:78
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:79
+msgid "Options data successfully reset"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/footer_customization_settings.php:45
+msgid "footer customizations text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/footer_customization_settings.php:47
+msgid "Enter the footer customizations text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/footer_customization_settings.php:50
+msgid "Created By text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/footer_customization_settings.php:52
+msgid "Enter the Created By text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/footer_customization_settings.php:55
+msgid "Created By Webriti text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/footer_customization_settings.php:57
+msgid "Enter the created by webriti text"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/footer_customization_settings.php:61
+msgid "Created By Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/footer_customization_settings.php:63
+msgid "Enter the Call Out Button Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:45
+msgid "Quick Start Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:61
+msgid "Enable Home Page ?"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:61
+msgid "Check this box for enabling the Custom Home Page of the theme."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:62
+msgid "Enable Home on front page."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:67
+msgid "Custom Favicon"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:70
+msgid "Make sure you upload .icon image type which is not more then 25X25 px."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:76
+msgid "Custom Logo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:80
+msgid "Add custom logo from here suggested size is 150X50 px"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:86
+msgid "Logo Height"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:88
+msgid ""
+"Default Logo Height : 50px, if you want to increase than specify your value"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:91
+msgid "Logo Width"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:93
+msgid ""
+"Default Logo Width : 150px, if you want to increase than specify your value"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:96
+msgid "Text Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:97
+msgid "Enable text-based Site Title.   Setup title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:97
+msgid "Click Here"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:100
+msgid "Home Image"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:103
+msgid "Make sure you upload .Home image fixed size 1200 X 450 px."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:107
+msgid "Custom css"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_page_settings.php:109
+msgid ""
+"This is a powerful feature provided here. No need to use custom css plugin, "
+"just paste your css code and see the magic."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:75
+msgid "Service Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:89
+msgid "Awesome Services"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:91
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:105
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:122
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:140
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:159
+msgid "Service Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:93
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:107
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:124
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:142
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:161
+msgid "Enter the service title."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:96
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:108
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:125
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:143
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:162
+msgid "Service Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:98
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:110
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:127
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:145
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:164
+msgid "Enter the service description."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:101
+msgid "Service one"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:102
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:119
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:137
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:156
+msgid "Service Icons"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:104
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:121
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:139
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:158
+msgid "Service Icon (Using Font Awesome icons name) like: fa-medkit."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:104
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:121
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:139
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:158
+msgid "Get your fontawesome icons."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:112
+msgid "Home service one page and icon Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:114
+msgid "Enter the home service one icon and title link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:115
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:132
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:151
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:170
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:120
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:143
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:166
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:189
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:118
+msgid "Service two"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:129
+msgid "Home service two page and icon Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:131
+msgid "Enter the home service two icon and title link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:136
+msgid "Service Third"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:148
+msgid "Home service third page and icon Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:150
+msgid "Enter the home service third icon and title link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:155
+msgid "Service Four"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:167
+msgid "Home service fourth page and icon Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/home_service_settings.php:169
+msgid "Enter the home service fourth icon and title link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:76
+msgid "Projects Settings"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:90
+msgid "Home Project  Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:92
+msgid "Project Section Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:94
+msgid "Enter Project Section Heading"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:96
+msgid "Project Section Tagline"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:96
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:107
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:130
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:153
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:176
+msgid "Enter Project Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:98
+msgid "Enter Project Section Tagline"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:101
+msgid "Home Project One"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:103
+msgid "Project One Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:105
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:128
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:151
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:174
+msgid "Enter Project Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:107
+msgid "Project One Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:113
+msgid "Project One Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:115
+msgid "Enter home Project One description text less then 150 character ."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:117
+msgid "Home project one page image Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:119
+msgid "Enter the home project one image link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:124
+msgid "Home Project Two"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:126
+msgid "Project Two Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:130
+msgid "Project Two Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:136
+msgid "Project Two Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:138
+msgid "Enter home Project Two description text less then 150 character ."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:140
+msgid "Home project two page image Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:142
+msgid "Enter the home project image two link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:147
+msgid "Home Project Three"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:149
+msgid "Project Three Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:153
+msgid "Project Three Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:159
+msgid "Project Three Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:161
+msgid "Enter home Project Three description text less then 150 character ."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:163
+msgid "Home project three page image Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:165
+msgid "Enter the home project image three link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:170
+msgid "Home Project Four"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:172
+msgid "Project Four Title"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:176
+msgid "Project Four Thumbnail"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:182
+msgid "Project Four Description"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:184
+msgid "Enter home Project Four description text less then 150 character ."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:186
+msgid "Home project four page image Link"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/projects_settings.php:188
+msgid "Enter the home project image four link."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:4
+msgid "Premium Theme Features"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:5
+msgid ""
+"Health Center is designed with Readability Flexibility in mind. Customize it "
+"to your hearts content with Sortable Project Areas, Services Areas and Call "
+"Out Section. . Use these great features to build an effective online "
+"presence for your business."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:6
+msgid "Upgrade To Pro Version"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:7
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:129
+msgid "View Live demo"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:16
+msgid "Responsive Layout"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:17
+msgid ""
+"All of our Theme contain Responsive frameworks that adapt to all Mobile "
+"Devices."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:22
+msgid "Multi-Color Schemes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:23
+msgid "You can select your color scheme out five different colors."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:34
+msgid "Great Support Team"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:35
+msgid "Webriti  always offers you Great and Quick support."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:40
+msgid "Health Center-Lite Vs Health Center-Premium"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:43
+msgid "Sr. No."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:50
+msgid "Home Page Sections "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:59
+msgid "In-Built Color Schemes "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:64
+msgid "Blog Layout Variations"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:75
+msgid "About Us Template, Portfolio Template, Services Template..."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:81
+msgid "Custom Typography"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:87
+msgid "In-Built Contact Form"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:93
+msgid "Custom Widgets,Shortcodes.."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:99
+msgid "Browser support"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:111
+msgid "Layout Type"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:112
+msgid "Boxed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:113
+msgid "Wide And Boxed"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/theme_options/pages/upgrade_pro.php:128
+msgid "Upgrade To Premium Version"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/widget/custom-sidebar.php:6
+msgid "Sidebar"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/widget/custom-sidebar.php:8
+msgid "The primary widget area"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/widget/custom-sidebar.php:16
+msgid "Footer Widget Area"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress_lite\wp-content\themes\hc-lite/functions/widget/custom-sidebar.php:18
+msgid "footer widget area"
+msgstr ""
